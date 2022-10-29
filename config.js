@@ -11,7 +11,7 @@ global.kontak = ['6283197373088']
 //  INFO BOT 
 global.naown = 'GEN'
 global.noown = '6283197373088'
-global.namebot = 'FORYN FOUR'
+global.namebot = 'GEN BOT'
 global.nobot = '6289611539648'
 
 //  URL SOSMED
@@ -104,8 +104,8 @@ global.salah = 'Salah ❌\n'
 
 // WATERMARK STICKER 
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'FORYN FOUR'
-global.author = 'By krizynOfc'
+global.packname = 'GENBOT'
+global.author = 'By Gen'
 
 //  APIKEY ANDA 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
