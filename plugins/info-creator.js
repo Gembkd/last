@@ -28,7 +28,7 @@ VERSION:3.0
 N:;;;
 FN: ᯤ GEN
 item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
-item1.TEL;waid=6283197373088:6283197373088@s.whatsapp.net
+item1.TEL;waid= 6283197373088:6283197373088@s.whatsapp.net
 item1.X-ABLabel: Nomor Owner Bot
 item2.EMAIL;type=INTERNET: eugenasik@gmail.com
 item2.X-ABLabel:📫 Gmail
